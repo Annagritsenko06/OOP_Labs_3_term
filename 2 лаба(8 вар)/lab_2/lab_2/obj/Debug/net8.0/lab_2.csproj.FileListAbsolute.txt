@@ -1,0 +1,28 @@
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.AssemblyInfo.cs
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.exe
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.deps.json
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.runtimeconfig.json
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.dll
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.pdb
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.dll
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\refint\lab_2.dll
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.pdb
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.genruntimeconfig.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\ref\lab_2.dll
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.AssemblyInfoInputs.cache
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.AssemblyInfo.cs
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.csproj.CoreCompileInputs.cache
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.dll
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\refint\lab_2.dll
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.pdb
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.exe
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.deps.json
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.runtimeconfig.json
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.dll
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\bin\Debug\net8.0\lab_2.pdb
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\lab_2.genruntimeconfig.cache
+F:\ооп\2 лаба(8 вар)\lab_2\lab_2\obj\Debug\net8.0\ref\lab_2.dll
