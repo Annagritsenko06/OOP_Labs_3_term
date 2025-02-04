@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Films>
+  <Film>
+    <Title>Фильм 1</Title>
+    <Duration>120</Duration>
+    <Director>Режиссер 1</Director>
+  </Film>
+  <Film>
+    <Title>Фильм 2</Title>
+    <Duration>90</Duration>
+    <Director>Режиссер 2</Director>
+  </Film>
+</Films>

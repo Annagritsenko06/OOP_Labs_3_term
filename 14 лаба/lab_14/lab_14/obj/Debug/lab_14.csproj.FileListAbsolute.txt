@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\obj\Debug\lab_14.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\obj\Debug\lab_14.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\bin\Debug\lab_14.exe.config
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\bin\Debug\lab_14.exe
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\bin\Debug\lab_14.pdb
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\obj\Debug\lab_14.exe
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\14 лаба\lab_14\lab_14\obj\Debug\lab_14.pdb

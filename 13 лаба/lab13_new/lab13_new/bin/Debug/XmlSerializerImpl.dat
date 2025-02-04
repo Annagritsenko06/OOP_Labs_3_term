@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Title>Фильм 1</Title>
+    <Duration>120</Duration>
+    <FilmDirector>
+      <Name>Режиссер 1</Name>
+    </FilmDirector>
+  </Film>
+  <Film>
+    <Title>Фильм 2</Title>
+    <Duration>90</Duration>
+    <FilmDirector>
+      <Name>Режиссер 2</Name>
+    </FilmDirector>
+  </Film>
+</ArrayOfFilm>

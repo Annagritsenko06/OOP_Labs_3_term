@@ -1,0 +1,14 @@
+{
+  "Films": [
+    {
+      "Title": "Film 1",
+      "Duration": 120,
+      "Director": "Dir 1"
+    },
+    {
+      "Title": "Film 2",
+      "Duration": 90,
+      "Director": "Dir 2"
+    }
+  ]
+}
