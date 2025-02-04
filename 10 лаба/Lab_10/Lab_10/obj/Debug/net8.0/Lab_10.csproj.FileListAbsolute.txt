@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\bin\Debug\net8.0\Lab_10.exe
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\bin\Debug\net8.0\Lab_10.deps.json
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\bin\Debug\net8.0\Lab_10.runtimeconfig.json
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\bin\Debug\net8.0\Lab_10.dll
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\bin\Debug\net8.0\Lab_10.pdb
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.AssemblyInfo.cs
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.dll
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\refint\Lab_10.dll
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.pdb
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\Lab_10.genruntimeconfig.cache
+C:\Users\admin\Documents\уник\3 СЕМ\ООП\10 лаба\Lab_10\Lab_10\obj\Debug\net8.0\ref\Lab_10.dll
